@@ -1,5 +1,6 @@
 venv/
 static/
+staticfiles/
 
 *.pyc
 __pycache__/
